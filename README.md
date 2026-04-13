@@ -1,6 +1,6 @@
 # Changelog Component
 
-A responsive and accessible changelog component built using semantic HTML and modular CSS. This project is a solution to the roadmap.sh "Changelog Component" challenge.
+A responsive and accessible changelog component built using semantic HTML and modular CSS. This project is a solution to the roadmap.sh "Changelog Component" challenge (https://roadmap.sh/projects/changelog-component).
 
 ##  Overview
 
