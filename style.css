@@ -1,0 +1,48 @@
+.item-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 10vh;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+
+.date {
+    color: lightslategrey;
+    flex: 1;
+    padding-right: 40px;
+    text-align: right;
+}
+
+.bullet-container {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.bullet-line {
+    background-color: black;
+    width: 2px;
+    height: 100%;
+}
+
+.bullet {
+    background-color: black;
+    width: 15px;
+    height: 15px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.change {
+    color: black;
+    flex: 1;
+    display: flex;
+    padding-left: 20px;
+}
